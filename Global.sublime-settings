@@ -1,0 +1,11 @@
+{
+	
+	"theme": "Soda Light.sublime-theme",
+	"use_simple_full_screen": true,
+
+	"hot_exit": false,
+	"remember_open_files": false,
+	
+	"ignored_packages": ["vintage"]
+	//"ignored_packages": [""]
+}

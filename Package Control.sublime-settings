@@ -1,0 +1,15 @@
+{
+	"auto_upgrade_last_run": 1325740625,
+	"installed_packages":
+	[
+		"Alignment",
+		"Git",
+		"Package Control",
+		"RubyTest",
+		"SublimeCodeIntel",
+		"ZenCoding"
+	],
+	"repositories":
+	[
+	]
+}

@@ -1,0 +1,4 @@
+{
+	"last_test_file": "/base_test.rb",
+	"last_test_run": "cd /Users/fdietz/devel/git/rails/actionmailer/ && ruby -Itest test/base_test.rb"
+}
