@@ -12,5 +12,7 @@
 	"font_size": 13.0,
 	"tab_size": 2,
 	"translateTabsToSpaces": true,
-	"trim_trailing_white_space_on_save": false
+	"trim_trailing_white_space_on_save": false,
+		// Enable auto complete to be triggered automatically when typing.
+	"auto_complete": false
 }
