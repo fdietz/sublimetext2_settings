@@ -12,5 +12,22 @@
     { "key": "overlay_visible", "operator": "equal", "operand": false },
     { "key": "panel_visible", "operator": "equal", "operand": false }
   ]
-}
+},
+{
+    "args": {
+      "contents": "#{${0:$SELECTION}}"
+    }, 
+    "command": "insert_snippet", 
+    "context": [
+      {
+        "key": "selector", 
+        "match_all": true, 
+        "operand": "string.quoted.double.ruby", 
+        "operator": "equal"
+      }
+    ], 
+    "keys": [
+      "#"
+    ]
+  }
 ]
