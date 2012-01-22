@@ -1,5 +1,7 @@
 [
+
 /*
+// this is from the textmate-like autocomplete plugin
 { "keys": ["escape"], "command": "alternative_autocomplete", "context":
   [
     { "key": "num_selections", "operator": "equal", "operand": 1 },
@@ -15,6 +17,11 @@
   ]
 },
 */
+
+// insert erb tags usign snippet
+{ "keys": ["ctrl+shift+<"], "command": "insert_snippet", "args": {"contents": "<%= $0 %>"} },
+
+// exit insert mode for vintage plugin
 { "keys": ["j", "j"], "command": "exit_insert_mode",
 	"context":
 	[
@@ -22,6 +29,8 @@
 		{ "key": "setting.is_widget", "operand": false }
 	]
 },
+
+// complete # character in ruby syntax mode
 {
     "args": {
       "contents": "#{${0:$SELECTION}}"
