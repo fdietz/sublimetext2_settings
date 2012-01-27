@@ -2,9 +2,10 @@
 	"hot_exit": false,
 	"ignored_packages":
 	[
-		"sublime_text_alternative_autocompletion", "Vintage"
+		"Vintage"
 	],
 	"remember_open_files": false,
+	"theme": "Soda Dark.sublime-theme",
 	"use_simple_full_screen": true,
 	"vintage_start_in_command_mode": true
 }

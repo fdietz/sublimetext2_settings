@@ -13,6 +13,7 @@
 	"tab_size": 2,
 	"translateTabsToSpaces": true,
 	"trim_trailing_white_space_on_save": false,
+	"detect_indentation": false
 		// Enable auto complete to be triggered automatically when typing.
-	"auto_complete": false
+	//"auto_complete": false
 }
