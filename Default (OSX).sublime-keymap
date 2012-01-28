@@ -41,6 +41,11 @@
 	"args": {
 		"contents": "<${1:p}>${0:$SELECTION}</${1}>"
 	}
-}
+},
+
+// single test
+{ "keys": ["super+shift+r"], "command": "run_single_ruby_test" },
+ // test file
+{ "keys": ["super+r"], "command": "run_all_ruby_test" }
 
 ]
