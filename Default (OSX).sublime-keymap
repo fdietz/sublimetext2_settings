@@ -28,6 +28,15 @@
 		{ "key": "setting.command_mode", "operand": false },
 		{ "key": "setting.is_widget", "operand": false }
 	]
+},
+
+// insert tag around selection
+{ 
+	"keys": ["alt+shift+t"], 
+	"command":"insert_snippet",
+	"args": {
+		"contents": "<${1:p}>${0:$SELECTION}</${1}>"
+	}
 }
 
 ]
