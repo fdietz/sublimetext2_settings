@@ -6,6 +6,8 @@
 		"Git",
 		"Package Control",
 		"RubyTest",
+		"SublimeCodeIntel",
+		"SublimeLinter",
 		"SublimeTextGitX",
 		"ZenCoding"
 	],
