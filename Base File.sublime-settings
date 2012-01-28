@@ -15,5 +15,5 @@
 	"trim_trailing_white_space_on_save": false,
 
 	// Enable auto complete to be triggered automatically when typing.
-	"auto_complete": false
+	"auto_complete": true
 }

@@ -1,11 +1,10 @@
 {
-	//"theme": "Soda Dark.sublime-theme",
-
 	"hot_exit": false,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
 	"remember_open_files": false,
-
 	"use_simple_full_screen": true,
-	
-	"ignored_packages": ["Vintage"],
 	"vintage_start_in_command_mode": true
 }
