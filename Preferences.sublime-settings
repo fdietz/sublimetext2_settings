@@ -1,0 +1,37 @@
+{
+	"auto_complete": false,
+	"auto_indent": true,
+	"color_scheme": "Packages/Color Scheme - Default/Monokai Soda.tmTheme",
+	"detect_indentation": true,
+	"draw_indent_guides": false,
+	"fade_fold_buttons": true,
+	"fold_buttons": true,
+	"folder_exclude_patterns":
+	[
+		".svn",
+		".git",
+		".hg",
+		"CVS",
+		"gems",
+		"tmp"
+	],
+	"font_face": "Monaco",
+	"font_options":
+	[
+		"subpixel_antialias"
+	],
+	"font_size": 13.0,
+	"hot_exit": false,
+	"ignored_packages":
+	[
+		"Vintage",
+		"SublimeCodeIntel"
+	],
+	"remember_open_files": false,
+	"tab_size": 2,
+	"theme": "Soda Dark.sublime-theme",
+	"translate_tabs_to_spaces": true,
+	"trim_trailing_white_space_on_save": false,
+	"use_simple_full_screen": true,
+	"vintage_start_in_command_mode": true
+}

@@ -1,9 +1,9 @@
 {
 	"auto_complete": true,
-	"color_scheme": "Packages/Color Scheme - Default/Monokai.tmTheme",
+	"auto_indent": true,
+	"color_scheme": "Packages/Color Scheme - Default/Monokai Soda.tmTheme",
 	"detect_indentation": true,
 	"draw_indent_guides": false,
-	"auto_indent": true,	
 	"fade_fold_buttons": true,
 	"fold_buttons": true,
 	"font_face": "Monaco",
