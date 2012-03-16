@@ -1,4 +1,4 @@
 {
-	"last_test_file": "base_test.rb",
-	"last_test_run": "cd '/Users/fdietz/devel/git/rails/actionmailer/' && ruby -Itest test/base_test.rb -n test_subject_gets_default_from_I18n"
+	"last_test_file": "data_point_repository_spec.rb",
+	"last_test_run": "cd /Users/fdietz/git/simple_metrics/ && rspec spec/data_point_repository_spec.rb"
 }
