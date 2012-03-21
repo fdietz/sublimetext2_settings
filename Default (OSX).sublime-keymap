@@ -1,0 +1,4 @@
+[
+// insert erb tags usign snippet
+{ "keys": ["ctrl+shift+<"], "command": "insert_snippet", "args": {"contents": "<%= $0 %>"} }
+]
